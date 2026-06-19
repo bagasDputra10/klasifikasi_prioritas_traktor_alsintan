@@ -224,7 +224,7 @@ st.sidebar.markdown(
     unsafe_allow_html=True
 )
 
-st.sidebar.image("assets/1.png", width=300)
+st.sidebar.image("assets/logo.png", width=300)
 
 menu = st.sidebar.radio(
     "",
