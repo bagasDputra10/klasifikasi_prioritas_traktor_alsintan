@@ -6,3 +6,5 @@ xgboost
 pillow
 matplotlib
 seaborn
+streamlit-folium
+folium
